@@ -1,6 +1,6 @@
 from http.server import HTTPServer, BaseHTTPRequestHandler
 
-HOST = "192.168.0.185"
+HOST = "add your IP address"
 PORT = 8080
 #define class
 class httpserver(BaseHTTPRequestHandler):
